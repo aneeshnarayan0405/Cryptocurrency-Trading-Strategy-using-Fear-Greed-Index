@@ -12,7 +12,7 @@ Please download them manually from the following links and place them in this `d
 📎 [Download from Google Drive]((https://drive.google.com/file/d/1GndgAt3amBvi7BDXQT7zp5k8tJpOFlD1/view?usp=sharing))
 
 ### 2. `historical_data.csv`
-📎 [Download from Google Drive]([https://drive.google.com/file/d/your-file-id-2/view?usp=sharing](https://drive.google.com/file/d/12lwrjFN5fbPZ6INEdXlf_rJkum0WT0LV/view?usp=sharing))
+📎 [Download from Google Drive]([https://drive.google.com/file/d/12lwrjFN5fbPZ6INEdXlf_rJkum0WT0LV/view?usp=sharing])
 
 ---
 
